@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dropdown_items">
+        <item>Top</item>
+        <item>Bottom</item>
+        <item>Top + Bottom</item>
+        <item>Blouse</item>
+        <item>Repairing</item>
+        <!-- Add more items as needed -->
+    </string-array>
+</resources>

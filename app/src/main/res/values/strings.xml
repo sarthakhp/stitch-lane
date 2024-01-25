@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Stitch Lane</string>
+    <string name="add_new">Add New</string>
+    <string name="search">Search</string>
 </resources>
